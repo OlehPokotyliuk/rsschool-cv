@@ -19,3 +19,49 @@ My responsibilities included working frequently with marketing analytics tools.
 I had to work with Javascript code to enable tools, set up advertising accounts. Now I decided to expand my knowledge in the field of front end in order to get a job.
 
 ---
+
+**Skills:**
+- HTML
+- CSS
+- Javascript
+- VS code
+- Photoshop
+- Power Bi
+
+---
+**Code Examples**
+
+DESCRIPTION:
+Return the number (count) of vowels in the given string.
+
+We will consider a, e, i, o, u as vowels for this Kata (but not y).
+
+The input string will only consist of lower case letters and/or spaces.
+```
+function getCount(str) {
+  var vowelsCount = 0;
+  var vowels = ["a","e","i","o","u"];
+  for(var i = 0;i < str.length;i++){
+    for(var j=0;j<vowels.length;j++){
+      if(str[i] === vowels[j]){
+        vowelsCount++;
+      }
+    }
+  }
+  
+  return vowelsCount;
+}
+```
+
+---
+
+**Courses :**
+- RS Schools Course "JavaScript/Front-end"
+- Step school course "front-end A - Z"
+
+---
+
+**Languages :**
+
+Russian / Ukrainian - Bilingual
+English - Pre - Intermediate A2
