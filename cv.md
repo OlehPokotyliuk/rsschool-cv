@@ -5,7 +5,7 @@
 
 **Contact information:**
 
-**Phone :** (093)604-97-01  
+**Phone :** +38(093)604-97-01  
 **E-mail :** olehshmdt@gmail.com  
 **[Linkedin](https://www.linkedin.com/in/oleh-pokotyliuk-0685b0210/ "Linkedin")**  
 **Telegram :** @fruit_one  
