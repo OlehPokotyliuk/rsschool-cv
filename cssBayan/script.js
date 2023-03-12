@@ -1,8 +1,6 @@
 document.addEventListener("DOMContentLoaded", function (event) {
-    const item = document.querySelectorAll('.accordeon-item');
     const img = document.querySelectorAll('.accordeon-item__img');
     const accordeon = document.querySelectorAll('.accordeon');
-    const chosenOne = document.querySelectorAll('.picture');
 
     img[0].classList.add('visibleimg');
 
